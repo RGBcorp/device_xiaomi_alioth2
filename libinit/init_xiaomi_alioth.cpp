@@ -33,7 +33,7 @@ static const variant_info_t alioth_global_info = {
     .brand = "POCO",
     .device = "alioth",
     .marketname = "POCO F3",
-    .model = "M2012K11AG",
+    .model = "Poco F3",
     .build_description = DESCRIPTION,
     .build_fingerprint = FINGERPRINT,
 
